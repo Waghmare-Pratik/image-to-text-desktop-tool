@@ -1,4 +1,4 @@
-# Image to text desktop tool 🖼️🔤
+![logo](https://github.com/user-attachments/assets/d3207a9e-0eda-46a6-b3b4-c2c04b143960)# Image to text desktop tool 🖼️🔤
 
 A modern desktop OCR (Optical Character Recognition) tool built using PyQt5 and Tesseract to extract text from images or screenshots.
 
@@ -22,4 +22,6 @@ A modern desktop OCR (Optical Character Recognition) tool built using PyQt5 and 
 
 # Image to text desktop tool 
 #🎬👀 UI Preview
-https://github.com/Waghmare-Pratik/image-to-text-desktop-tool/blob/main/logo.png
+![image](https://github.com/user-attachments/assets/aa377794-737b-4a32-9071-b1ed6530c9f5)
+
+#🎬👀 UI Preview video
