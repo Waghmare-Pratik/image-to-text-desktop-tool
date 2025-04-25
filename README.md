@@ -1,5 +1,5 @@
 
-# Image to text desktop tool by using chatgpt in 10 minutes 
+# Image to text desktop tool by using chatgpt in 20 minutes 
 
 A modern desktop OCR (Optical Character Recognition) tool built using PyQt5 and Tesseract to extract text from images or screenshots.
 
