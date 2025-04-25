@@ -10,12 +10,16 @@ A modern desktop OCR (Optical Character Recognition) tool built using PyQt5 and 
 - 🖼️ Image preview panel
 - 🌙 Dark modern UI
 
+---
+
 ## 🚀 Getting Started
 
 ### Requirements
 - Python 3.7+
 - Tesseract-OCR installed ([Download link](https://github.com/UB-Mannheim/tesseract/wiki))
 
-### Install Dependencies
-```bash
-pip install -r requirements.txt
+---
+
+# Image to text desktop tool 
+#🎬👀 UI Preview
+https://github.com/Waghmare-Pratik/image-to-text-desktop-tool/blob/main/logo.png
