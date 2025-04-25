@@ -1,6 +1,9 @@
-![logo](https://github.com/user-attachments/assets/d3207a9e-0eda-46a6-b3b4-c2c04b143960)# Image to text desktop tool 🖼️🔤
+![logo](https://github.com/user-attachments/assets/d3207a9e-0eda-46a6-b3b4-c2c04b143960)
+# Image to text desktop tool 🖼️🔤
 
 A modern desktop OCR (Optical Character Recognition) tool built using PyQt5 and Tesseract to extract text from images or screenshots.
+
+---
 
 ## ✨ Features
 - 📁 Open image file and extract text
